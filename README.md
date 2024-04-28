@@ -3,6 +3,10 @@
 
 This is a simple website project created using Vite and TypeScript. It showcases a web design for a headphones store.
 
+
+![screencapture-localhost-5173-2024-04-28-09_05_30](https://github.com/fahad0samara/vite-Headphones/assets/90055525/0f04f631-132f-48ac-bbac-cc85973c333a)
+
+
 ## Features
 
 - Responsive design
